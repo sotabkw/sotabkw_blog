@@ -241,10 +241,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.7.0.tgz#9a06f4f137ee84d7df0460c1fdb1135ffa6c50fd"
   integrity sha512-ONhaKPIufzzrlNbqtWFFd+jlnemX6lJAgq9ZeiZtS7I1PIf/la7CW4m83rTXRnVnsMbW2k56pGYu7AUFJD9Pow==
 
-"@tailwindcss/typography@0.5.7":
-  version "0.5.7"
-  resolved "https://registry.yarnpkg.com/@tailwindcss/typography/-/typography-0.5.7.tgz#e0b95bea787ee14c5a34a74fc824e6fe86ea8855"
-  integrity sha512-JTTSTrgZfp6Ki4svhPA4mkd9nmQ/j9EfE7SbHJ1cLtthKkpW2OxsFXzSmxbhYbEkfNIyAyhle5p4SYyKRbz/jg==
+"@tailwindcss/typography@0.5.10":
+  version "0.5.10"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/typography/-/typography-0.5.10.tgz#2abde4c6d5c797ab49cf47610830a301de4c1e0a"
+  integrity sha512-Pe8BuPJQJd3FfRnm6H0ulKIGoMEQS+Vq01R6M5aCrFB/ccR/shT+0kXLjouGC1gFLm9hopTFN+DMP0pfwRWzPw==
   dependencies:
     lodash.castarray "^4.4.0"
     lodash.isplainobject "^4.0.6"
